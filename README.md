@@ -97,7 +97,11 @@ French-Bakery-Analysis/
 - A-tier SKUs drive ~75% of total revenue despite being a small fraction of SKUs
 - Revenue patterns vary across day-of-week and time-of-day, enabling more efficient staffing and stocking decisions
 - Bundling opportunities identified through co-occurrence of A/B-tier products can improve cross-sell efficiency
+  <img width="607" height="241" alt="image" src="https://github.com/user-attachments/assets/2f07759d-52c7-4fa2-a06c-34e1b84b5f32" />
+
 - Cannibalization insights reveal substitutable C-tier items that may be candidates for reduction to simplify production
+  <img width="558" height="232" alt="image" src="https://github.com/user-attachments/assets/71b6cf32-9221-447e-8845-70882e2cb653" />
+
 
 ***Technologies Used***
 
